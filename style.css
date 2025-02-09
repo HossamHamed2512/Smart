@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: "Cairo", serif;
     direction: rtl;
+    font-style:normal;
 }
 
 .container {
